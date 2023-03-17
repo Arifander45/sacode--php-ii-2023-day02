@@ -1,2 +1,2 @@
 # sacode--php-ii-2023-day02
-Belajar mengenal tipe data pada bahasa pemograman php
+Belajar mengenal tipe data pada bahasa Pemograman PHP
